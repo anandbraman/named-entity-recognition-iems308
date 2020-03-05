@@ -29,3 +29,10 @@ https://www.dropbox.com/sh/4tur0275szlyj2j/AADGgt4_9yOXaiwNPpCgWoF8a?dl=0
 `company_hiconf_FP.csv` is the same as ceo_hiconf_FP but for companies.
 <br>
 `percentage_matches.csv`: same deal as `company_matches.csv` and `ceo_matches.csv` but all these percentages were identified by built in `spaCy` NER. 
+
+### Running this code
+Store the 2013 and 2014 articles in 'data/articles/' in your directory.
+<br>
+Store labels in 'data/labels/' in your directory. 
+<br>
+You should be able to run `clean_final`, `modeling`, and `ner.py` after this
