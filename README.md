@@ -35,4 +35,4 @@ Store the 2013 and 2014 articles in 'data/articles/' in your directory.
 <br>
 Store labels in 'data/labels/' in your directory. 
 <br>
-You should be able to run `clean_final`, `modeling`, and `ner.py` after this
+You should be able to run `clean_final.ipynb`, `modeling.ipynb`, and `ner.py` after this. 
